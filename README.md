@@ -23,4 +23,4 @@ Then i connected to the Instance using ssh from my terminal with the key pair av
 
 <img width="1440" alt="Screenshot 2024-03-15 at 7 07 43 AM" src="https://github.com/csarat424/Bash-scripts/assets/22951307/cb94e070-0430-40b4-b0e9-5ba01f1655b1">
 
-Later updated the "apt" package manager, then created the aforesaid bash script files using vim editor.
+Later updated the "apt" package manager, then created the aforesaid bash script files using vim editor. I have created screenshots of the files and stored in the Images folder of this repository. 
